@@ -1,3 +1,15 @@
-h1{
+*{
   color: red;
+}
+div{
+  height: 250px;
+}
+.blue{
+  background: #29809b;
+}
+.white{
+  background: white;
+}
+.red{
+  background: #c0392b;
 }
